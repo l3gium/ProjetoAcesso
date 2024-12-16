@@ -1,4 +1,4 @@
-#PROJETO ACESSO
+# PROJETO ACESSO
 Uma empresa possui um controle de acessos em seus diversos ambientes.
 
 Cada ambiente possui um dispositivo que, verificando as permissões do usuário, decide se o mesmo pode ou não acessar a sala, registrando TODA AÇÃO (acessos e tentativas de acesso) em um log. Nesse log, devem ficar registradas, no máximo, 100 ocorrências por dispositivo, sendo descartadas as mais antigas.
